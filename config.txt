@@ -1,2 +1,4 @@
 Hello This is used form db Ip and connection string
 You are learing
+Are you aware of terrafrom 
+Can you teach me Git and Github
