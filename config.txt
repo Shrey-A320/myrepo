@@ -1,0 +1,2 @@
+Hello This is used form db Ip and connection string
+You are learing
